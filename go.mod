@@ -1,3 +1,5 @@
+module dejunedd/go-web-calculator
+
 go 1.19
 
 require (
