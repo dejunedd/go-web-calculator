@@ -1,5 +1,5 @@
 module dejunedd/go-web-calculator
 
-go 1.23
+go 1.19
 
 require github.com/aws/aws-lambda-go v1.47.0
